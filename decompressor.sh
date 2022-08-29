@@ -16,3 +16,4 @@ done
 # Mientras se pueda descomprimir (haya un $new_file) se repetira un bucle:
 # El bucle descomprime el archivo y mira si hay un nuevo archivo a descomprimir que los sustituira en 
 # la misma varaible ($new_file) para entrar otra vez al bucle y repetir.
+# Original author -> s4vitar

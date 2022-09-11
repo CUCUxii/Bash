@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# ORIGINAL AUTHOR: S4VITAR
+# I ADDED THE -W PARAMETER AND SHORTENED A BIT OF CODE, MY AESTHETIC IS ALSO DIFFERENT.
+
 # Variables Globales -------------------------- #
 
 tit="\e[7m"

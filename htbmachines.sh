@@ -166,9 +166,9 @@ if [ $param_count -eq 1 ]; then
 elif [ $param_count -eq 2 ]; then
 	actualizar
 elif [ $param_count -eq 3 ]; then
-    busca_ip $ip	
+    	busca_ip $ip	
 elif [ $param_count -eq 4 ]; then
-    nivel $dificultad
+    	nivel $dificultad
 elif [ $param_count -eq 5 ]; then
 	busca_so $so
 elif [ $param_count -eq 6 ]; then
